@@ -1,6 +1,7 @@
 ---
 layout: default
-title: CoreJs-W3C
+title: Endre Bock
+subtitle: Software Consultant
 permalink: /index.html
 ---
 
